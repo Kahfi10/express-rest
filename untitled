@@ -1,0 +1,5 @@
+GET /comments - untuk menampikan semua list comments
+POST /comments - create a new comment
+GET /comments/:id - get pne comment by id
+PATCH/PUT /comment/:id - update one comment
+DELETE /comments/:id - delete one comment
